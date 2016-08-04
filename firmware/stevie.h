@@ -1,5 +1,3 @@
-#include "InternetButton/InternetButton.h"
-
 class StevieButton : public InternetButton {
 	public:
 		const uint8_t top = 4;
